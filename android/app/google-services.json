@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543256245766",
+    "project_id": "lista-de-tarefas-c3cb6",
+    "storage_bucket": "lista-de-tarefas-c3cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543256245766:android:b51250c1bc6b1dec5db587",
+        "android_client_info": {
+          "package_name": "com.example.new_login_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgPZr8xGB1fc-qAq234bgaadm7FtKzVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
